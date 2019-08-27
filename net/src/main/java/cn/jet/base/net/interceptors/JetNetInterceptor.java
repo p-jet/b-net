@@ -1,6 +1,6 @@
 package cn.jet.base.net.interceptors;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import cn.jet.base.net.config.Configurator;
 import cn.jet.base.net.utils.JetNetLogger;
