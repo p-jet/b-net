@@ -23,10 +23,10 @@ android {
 dependencies {
     api 'androidx.legacy:legacy-support-v4:1.0.0'
     //noinspection GradleDependency
-    api 'androidx.appcompat:appcompat:1.0.0'
-    api 'androidx.core:core:1.0.2'
-    api 'androidx.fragment:fragment:1.0.0'
-    api 'com.google.android.material:material:1.0.0'
+    api 'androidx.appcompat:appcompat:1.1.0'
+    api 'androidx.core:core:1.2.0'
+    api 'androidx.fragment:fragment:1.2.2'
+    api 'com.google.android.material:material:1.1.0'
 
     api 'com.squareup.retrofit2:retrofit:2.5.0'
     api 'com.squareup.retrofit2:adapter-rxjava2:2.5.0'
